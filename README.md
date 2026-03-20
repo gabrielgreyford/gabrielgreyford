@@ -14,7 +14,7 @@
   - - 🇧🇷 From **Brazil**
     - - 🔭 Currently studying **Computer Learning and AI**
       - - 🏢 Working at **@NextApps**
-       - - 🏢 Founder at **@INNEXLAS**
+        - - 🏢 Founder at **@INNEXLAS**
           - - ⚡ Fun fact: I love vibe code!
            
             - ---
