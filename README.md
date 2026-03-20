@@ -40,13 +40,6 @@
             <div align="center">
               <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgreyford&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgreyford&layout=compact&langs_count=7&theme=tokyonight"/>
-            </div>div>
-
-            <div align="center">
-         
-             [![GitHub followers](https://img.shields.io/github/followers/gabrielgreyford?style=social)](https://github.com/gabrielgreyford)
-         
-            ![Profile Views](https://komarev.com/ghpvc/?username=gabrielgreyford&color=blueviolet)
-         
             </div>
-              </picture>
+
+           
