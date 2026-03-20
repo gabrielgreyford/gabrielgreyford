@@ -40,12 +40,6 @@
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgreyford&layout=compact&langs_count=7&theme=tokyonight"/>
             </div>div>
 
-            ---
-
-            #
-         
-            ---
-         
             <div align="center">
          
                   [![GitHub followers](https://img.shields.io/github/followers/gabrielgreyford?style=social)](https://github.com/gabrielgreyford)
