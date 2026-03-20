@@ -44,9 +44,9 @@
 
             <div align="center">
          
-                  [![GitHub followers](https://img.shields.io/github/followers/gabrielgreyford?style=social)](https://github.com/gabrielgreyford)
+             [![GitHub followers](https://img.shields.io/github/followers/gabrielgreyford?style=social)](https://github.com/gabrielgreyford)
          
-                ![Profile Views](https://komarev.com/ghpvc/?username=gabrielgreyford&color=blueviolet)
+            ![Profile Views](https://komarev.com/ghpvc/?username=gabrielgreyford&color=blueviolet)
          
             </div>
               </picture>
