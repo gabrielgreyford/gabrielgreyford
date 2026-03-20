@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hey there! 👋 I'm Gabriel Greyford
+  # Eaee Galera! 👋 Eu sou o Gabriel Greyford
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Computer+Learning+%26+AI+Enthusiast;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -13,9 +13,9 @@
   - 🎓 I'm **Gabriel Greyford** (he/him), 20 years old
   - - 🇧🇷 From **Brazil**
     - - 🔭 Currently studying **Computer Learning and AI**
-      - - 🏢 Working at **@innextech**
-        - - 🌱 Always learning and exploring new technologies
-          - - ⚡ Fun fact: I love turning ideas into code!
+      - - 🏢 Working at **@NextApps**
+       - - 🏢 Founder at **@INNEXLAS**
+          - - ⚡ Fun fact: I love vibe code!
            
             - ---
 
@@ -42,15 +42,7 @@
 
             ---
 
-            ### 🐍 My Contributions
-
-            <div align="center">
-              <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whyubiel/whyubiel/output/github-contribution-grid-snake-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whyubiel/whyubiel/output/github-contribution-grid-snake.svg" />
-                    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/whyubiel/whyubiel/output/github-contribution-grid-snake.svg" />
-              </picture>picture>
-            </div>div>
+            #
          
             ---
          
