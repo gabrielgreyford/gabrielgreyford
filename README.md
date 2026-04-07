@@ -11,9 +11,9 @@
   ### 🧑‍💻 About Me
 
   - 🎓 I'm **Gabriel Greyford** (he/him), 20 years old
-  - - 🇧🇷 From **Brazil**
+  - - 🇧🇷 From **Brazil | São Paulo**
     - - 🔭 Currently studying **Computer Learning and AI**
-      - - 🏢 Working at **@NextApps**
+      - - 🏢 AI Engineer at **@NextApps**
         - - 🏢 Founder at **@INNEXLAS**
           - - ⚡ Fun fact: I love vibe code!
            
@@ -33,13 +33,5 @@
             </div>
 
             
-            ---
-
-            ### 📊 GitHub Stats
-
-            <div align="center">
-              <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgreyford&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-                
-            </div>
-
+          
            
